@@ -16,7 +16,7 @@ print(len(a))
 for i in range(len(a)):
     print(a[i])
 
-for i in a:
+for i in a:  
     print(i)
 
 
@@ -149,8 +149,6 @@ for i in a:
         dig+=1
     else:
         symbel+=1
-
-
 
 
 
