@@ -53,19 +53,9 @@ for i in range(n):
 n=int(input("enter the value of n :"))
 for i in range(n,0,-1):
     print(i)
-
-
-
 n=int(input("enter the value of n :"))
 for i in range(1,21):
     print(f"{n}*{i}={n*i}")
-
-
-
-
-
-
-
 sum =0
 sum=sum+1
 sum=sum+2
