@@ -1,2 +1,2 @@
-z="amnurag"
-print(z[0,3,1])
+z = "anurag"
+print(z[0:3:1])
